@@ -34,6 +34,9 @@ public class Calculator {
         }
 
         System.out.println(n1 + "" + operator + "" + n2 + "=" + answer);
+        System.out.println(n1 + "" + operator + "" + n2 + "=" + answer);
+
+
 
         scanObject.close();
     }
